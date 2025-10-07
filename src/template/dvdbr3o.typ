@@ -124,7 +124,7 @@
 
 #let dvdbr3otypst(
   title: none,
-  subtitle: none,
+  subtitle: [],
   title_font: none,
   content_font: none,
   code_font: none,
