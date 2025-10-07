@@ -10,7 +10,7 @@ license = "MIT"
 description = "缝合风云模板，享受优质人生"
 repository = "https://github.com/DvdBr3o/dvdbr3o.typ"
 
-# [template]
-# path = "src/template/"
-# entrypoint = "main.typ"
-# thumbnail = "src/figures/thumbnail.png"
+[template]
+path = "src/template/"
+entrypoint = "main.typ"
+thumbnail = "src/figures/thumbnail.png"
