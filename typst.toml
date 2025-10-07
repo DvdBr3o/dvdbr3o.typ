@@ -1,0 +1,16 @@
+[package]
+name = "dvdbr3otyp"
+version = "0.1.0"
+compiler = "0.13.1"
+entrypoint = "src/dvdbr3o.typ"
+authors = ["DvdBr3o <https://github.com/DvdBr3o>"]
+keywords = ["thesis", "report"]
+categories = ["report", "thesis"]
+license = "MIT"
+description = "缝合风云模板，享受优质人生"
+repository = "https://github.com/DvdBr3o/dvdbr3o.typ"
+
+# [template]
+# path = "src/template/"
+# entrypoint = "main.typ"
+# thumbnail = "src/figures/thumbnail.png"
