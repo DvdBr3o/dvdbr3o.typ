@@ -260,7 +260,10 @@
   if bib != none and bib != [] {
     pagebreak()
     show bibliography: set par(spacing: 1.2em)
-    show bibliography: heading[引用]
+    show bibliography: set bibliography(
+      title: [引用],
+      style: "ieee",
+    )
 
   counter(page).update(1)
   set page(numbering: "i")
