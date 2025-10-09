@@ -136,6 +136,7 @@
   citation-style: "alphanumeric",
   cite-color: colors.purple,
   ref-color: colors.purple,
+  link-color: colors.purple,
   paper-size: "a4",
   doc,
 ) = {
