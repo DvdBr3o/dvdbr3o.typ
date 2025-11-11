@@ -143,7 +143,7 @@
   show: codly-init.with()
 
   show raw: set text(
-    font: ("CaskaydiaCove NF"),
+    font: ("CaskaydiaCove NF", "HarmonyOS Sans SC"),
     size: 1.03em
   )
   
