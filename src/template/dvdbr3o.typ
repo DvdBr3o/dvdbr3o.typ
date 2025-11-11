@@ -119,7 +119,17 @@
     indent: auto,
     target: heading,
   )
-  
+}
+
+#let rounded(
+  item,
+  radius: 10pt
+) = {
+  block(
+    clip: true,
+  	radius: radius,
+    item
+  )
 }
 
 #let dvdbr3otypst(
