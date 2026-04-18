@@ -1,7 +1,7 @@
 #import "@preview/codly:1.3.0": *
 #import "@preview/codly-languages:0.1.1": *
 #import "@preview/headcount:0.1.0": *
-#import "@preview/pintorita:0.1.4": *
+#import "@preview/pintorita:0.1.4" as pintorita
 #import "@preview/typxidian:0.1.2": make-callout-fn, math-callout, info, faq, tip, success, danger, definition, theorem, proof
 
 #let sizes = (
